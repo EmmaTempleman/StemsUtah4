@@ -1,0 +1,41 @@
+img{width:700px;}
+
+Body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    Background-color: rgb(249, 203, 226);
+    font-size: 2em;
+}
+
+Header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    Font-size: .8em;
+    Color: rgb(212, 18, 131);
+}
+
+Body {
+    margin: 25px 25px 25px 25px;
+  }
+
+  Header{
+    margin:25px 25px 25px 25px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+
+    < center > < img src="2459605.jpg" > < /center >
+
+  
+  #viz1670464511621{
+    align-content: center;
+  }
+
